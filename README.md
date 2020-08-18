@@ -13,8 +13,12 @@ This repository is an implementation of "[Technical Note: Evaluation of Audiovis
 - [Charts](https://github.com/danielgindi/Charts)
 - [CounterView](https://www.raywenderlich.com/8003281-core-graphics-tutorial-getting-started)
 
-### As well as a 3D printed case for the iPhone X
+### 3D printed case for the iPhone X
 - [iPhone X Case stl File](https://www.thingiverse.com/thing:2824602)
+
+
+### As well as a AVATAR system used in the project
+- [AVATAR](https://sites.google.com/view/stanford-avatar)
 
 ## Files and Documentation
 
@@ -38,7 +42,6 @@ src\3D_Printing                             - 3D printing files
 ```
 
 ## License
-
 
 MIT License
 
