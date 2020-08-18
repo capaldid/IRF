@@ -19,13 +19,13 @@ The IRF code as well as the 3D printed designs are provided.
 
 ```
 src\InstantRespiratoryFeeback_Final     - main code
-src\3d_Printing                         - 3D printing files
+src\3D_Printing                         - 3D printing files
 ```
 
 ## Citation
 
 ```
-@article{capaldi2020parametric,
+@article{capaldi2020IRF,
   title={Technical Note: Evaluation of Audiovisual Biofeedback Smartphone Application for Respiratory Monitoring in Radiation Oncology},
   author={Capaldi, Dante PI and Nano, Tomi F and Zhang, Hao, and Skinner, Lawrie B and Xing, Lei},
   journal={Medical Physics},
