@@ -13,13 +13,16 @@ This repository is an implementation of "[Technical Note: Evaluation of Audiovis
 - [Charts](https://github.com/danielgindi/Charts)
 - [CounterView](https://www.raywenderlich.com/8003281-core-graphics-tutorial-getting-started)
 
+### As well as a 3D printed case for the iPhone X
+- [iPhone X Case stl File](https://www.thingiverse.com/thing:2824602)
+
 ## Files and Documentation
 
 The IRF code as well as the 3D printed designs are provided.
 
 ```
-src\InstantRespiratoryFeeback_Final     - main code
-src\3D_Printing                         - 3D printing files
+src\InstantRespiratoryFeeback_Final.zip     - main code
+src\3D_Printing                             - 3D printing files
 ```
 
 ## Citation
