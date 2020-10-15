@@ -1,6 +1,6 @@
 # Instant Respiratory Feedback
 
-This repository is an implementation of "[Technical Note: Evaluation of Audiovisual Biofeedback Smartphone Application for Respiratory Monitoring in Radiation Oncology.](https://github.com/capaldid/IRF)" in _Medical Physics_ 2020 by Dante Capaldi and colleagues.
+This repository is an implementation of "[Technical Note: Evaluation of Audiovisual Biofeedback Smartphone Application for Respiratory Monitoring in Radiation Oncology.](https://doi.org/10.1002/mp.14484)" in _Medical Physics_ 2020 by Dante Capaldi and colleagues.
 
 ![IRF](https://github.com/capaldid/IRF/blob/master/IRF_Figure.png)
 
